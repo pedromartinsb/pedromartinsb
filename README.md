@@ -1,13 +1,12 @@
-## Hi, I'm Pedro Campos!
+## Hi, I'm Pedro Campos! 🇧🇷
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 - 🔭 I’m currently working on Tech Lead
-- 🌱 I’m currently learning Clean Architecture
+- 🌱 I’m currently learning Clean Architecture, Flutter
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -19,7 +18,7 @@
 
 
 <h2>Languages and Tools:</h2>
-<code><img width="40" src="https://github.com/pedromartinsb/pedromartinsb/blob/main/assets/CSS.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/CSS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/HTML.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
