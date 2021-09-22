@@ -3,12 +3,12 @@
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 - 🔭 I’m currently working on Tech Lead
-- 🌱 I’m currently learning Clean Architecture, Flutter
+- 🌱 I’m currently learning TDD, Design Patterns Architecture
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Java class
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Native Portuguese, Advanced English
+- ⚡ Fun fact: I play eletric guitar
 
  <div>
   <a href="https://github.com/pedromartinsb">
