@@ -2,10 +2,10 @@
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
-- 🔭 I’m currently working on Tech Lead
-- 🌱 I’m currently learning TDD, Design Patterns Architecture
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Java class
+- 🔭 I’m currently working on Senior Java Developer
+- 🌱 I’m currently learning TDD, Design Patterns Architecture, WebFlux
+- 👯 I’m looking to collaborate on Banco Pan with Login Authorization and Authentication
+- 🤔 I’m looking for help with Java Patterns
 - 💬 Ask me about ...
 - 😄 Pronouns: Native Portuguese, Advanced English
 - ⚡ Fun fact: I play eletric guitar
@@ -18,7 +18,6 @@
 
 
 <h2>Languages and Tools:</h2>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/CSS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/HTML.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
 <code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
