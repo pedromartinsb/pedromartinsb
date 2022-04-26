@@ -2,10 +2,10 @@
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
-- 🔭 I’m currently working on Senior Java Developer
-- 🌱 I’m currently learning TDD, Design Patterns Architecture, WebFlux
-- 👯 I’m looking to collaborate on Banco Pan with Login Authorization and Authentication
-- 🤔 I’m looking for help with Java Patterns
+- 🔭 I’m currently working on Senior Software Architecture
+- 🌱 I’m currently learning TDD, Design Patterns Architecture, Solution Architecture
+- 👯 I’m looking to collaborate on Banco Sicredi
+- 🤔 I’m looking for help with Java and Software Architecture Patterns
 - 💬 Ask me about ...
 - 😄 Pronouns: Native Portuguese, Advanced English
 - ⚡ Fun fact: I play eletric guitar
