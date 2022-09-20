@@ -3,7 +3,7 @@
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 - 🔭 I’m currently working on Senior Software Architecture
-- 🌱 I’m currently learning TDD, Design Patterns Architecture, Solution Architecture
+- 🌱 I’m currently learning Python, Machine Learning, AI and Unity 3D
 - 👯 I’m looking to collaborate on Banco Sicredi
 - 🤔 I’m looking for help with Java and Software Architecture Patterns
 - 💬 Ask me about ...
