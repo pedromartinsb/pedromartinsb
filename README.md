@@ -3,8 +3,8 @@
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 - 🔭 I’m currently working on Senior Software Engineer
-- 🌱 I’m currently learning Artificial Intelligence - AI
-- 👯 I’m looking to collaborate on Cilia
+- 🌱 I’m currently learning Solutions Cloud Architecture
+- 👯 I’m looking to collaborate on John Deere and personal projects
 - 🤔 I’m looking for help with Java/Go and Software Architecture Patterns
 - 💬 Ask me about ...
 - 😄 Pronouns: Native Portuguese, Fluent English
